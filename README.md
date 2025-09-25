@@ -10,17 +10,23 @@ Purpose:
 In emergency situations, first responders often lack accurate information about how many people remain inside. This project provides a low-cost, reliable solution using sensors and an Arduino microcontroller to keep track of occupancy.
 
 
+How It Works:
+1. The laser sensors detect whether a person is entering or exiting a building
+2. The C++ program increments or decrements the occupancy count accordingly
+3. The LCD Display shows the real-time number of people inside of the building
+
+
 Materials Used:
 
+- Coded in C++
 - Arduino Microcontroller
 - 2 sets of Laser Transmitters and Sensors
 - LCD Display
 
 
-How It Works:
-1. The laser sensors detect whether a person is entering or exiting a building
-2. The C++ program increments or decrements the occupancy count accordingly
-3. The LCD Display shows the real-time number of people inside of the building
+Website URL:
+
+https://zacstadtmauer6.wixsite.com/keeptrackofthepack
 
 
 License:
